@@ -1,2 +1,2 @@
 # talks
-My recent talks with varius communities
+My recent talks with various communities
